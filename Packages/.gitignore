@@ -3,3 +3,8 @@
 
 # Change this to match your new package name
 !com.vrchat.demo-template 
+!okitsu.net.ndparamsmoother
+!com.vrchat.core.*/
+
+com.vrchat.base/
+com.vrchat.avatars/

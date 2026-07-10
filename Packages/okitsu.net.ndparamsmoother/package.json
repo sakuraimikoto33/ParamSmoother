@@ -1,0 +1,17 @@
+{
+  "name": "okitsu.net.ndparamsmoother",
+  "displayName": "Parameter Smoother",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Apply OSCmooth non-destructively.",
+  "vrchatVersion": "2022.1.1",
+  "vpmDependencies" : {
+    "com.vrchat.avatars" : ">=3.8.x",
+    "nadena.dev.ndmf" : ">=1.9.x"
+  },
+  "author": {
+    "name": "sakuraimikoto33"
+  },
+  "license": "MIT",
+  "licensesUrl": ""
+}

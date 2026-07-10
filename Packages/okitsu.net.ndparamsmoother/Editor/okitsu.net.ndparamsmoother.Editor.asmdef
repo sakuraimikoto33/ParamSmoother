@@ -1,0 +1,23 @@
+{
+    "name": "okitsu.net.ndparamsmoother.editor",
+    "rootNamespace": "okitsu.net.ndparamsmoother.Editor",
+    "references": [
+        "okitsu.net.ndparamsmoother.runtime",
+        "VRC.SDKBase",
+        "VRC.SDK3A",
+        "nadena.dev.ndmf.runtime",
+        "nadena.dev.ndmf",
+        "nadena.dev.modular-avatar.core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

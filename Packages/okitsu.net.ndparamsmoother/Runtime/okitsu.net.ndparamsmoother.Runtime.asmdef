@@ -1,0 +1,17 @@
+{
+    "name": "okitsu.net.ndparamsmoother.runtime",
+    "rootNamespace": "okitsu.net.ndparamsmoother.Runtime",
+    "references": [
+        "VRC.SDKBase",
+        "VRC.SDK3A"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
