@@ -11,7 +11,7 @@
 
 Parameter Smoother は、[OSCmooth](https://github.com/regzo2/OSCmooth) の処理を NDMF で非破壊的に実装するツールです。
 
-アバターに設定用コンポーネントを追加しておくと、ビルド時に一時的な Animator Controller へ OSCmooth 相当のレイヤーを生成します。元の Animator Controller アセットは直接変更しません。
+アバターにコンポーネントを追加しておくと、ビルド時に Animator Controller へ OSCmooth 相当のレイヤーを生成します。元の Animator Controller アセットは直接変更しません。
 
 OSCmooth の導入は必須ではありません。OSCmooth が導入されている場合は、OSCmooth で作成した config をコンポーネントへ読み込むことができます。
 
@@ -42,7 +42,7 @@ Copyright (c) 2026 sakuraimikoto33
 
 Parameter Smoother is a non-destructive NDMF implementation of [OSCmooth](https://github.com/regzo2/OSCmooth) for VRChat avatars.
 
-Add the settings component to your avatar, and the package generates OSCmooth-style layers on a temporary Animator Controller during avatar build. The original Animator Controller asset is not modified.
+Add the component to your avatar, and the generates OSCmooth-style layers on Animator Controller during avatar build. The original Animator Controller asset is not modified.
 
 OSCmooth is optional. If OSCmooth is installed, configs created with OSCmooth can be imported into the Parameter Smoother component.
 
